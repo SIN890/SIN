@@ -1,7 +1,7 @@
 
 
   	
-import telebot,random
+import telebot,random, os, sys
 import requests,re
 from user_agent import generate_user_agent
 
